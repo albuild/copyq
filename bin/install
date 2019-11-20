@@ -1,4 +1,0 @@
-#!/usr/bin/env bash
-eval `cat env`
-bin/cp || exit 1
-exec sudo yum install rpm/albuild-copyq-$version-1.amzn2.x86_64.rpm

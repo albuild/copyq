@@ -1,18 +1,9 @@
 # Changelog :)
 
-## Format
+## 3.9.3
 
-Based on [Keep a Changelog].
+* Bumps up to CopyQ 3.9.3.
 
-## Versioning Policy
-
-[Semantic Versioning Caret]
-
-## Versions
-
-### 0.1.0
+## 0.1.0
 
 * First release!
-
-[Keep a Changelog]: http://keepachangelog.com/en/1.0.0/
-[Semantic Versioning Caret]: https://github.com/myowncake/semver-caret
